@@ -19,4 +19,4 @@ Check out the live homepage:
 
 ---
 
-*Made with ❤️ by [Your Name](https://github.com/playfairs)*# pdpy
+*Made with ❤️ by [playfairs](https://github.com/playfairs)*
